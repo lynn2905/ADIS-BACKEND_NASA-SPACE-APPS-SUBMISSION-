@@ -1,0 +1,26 @@
+name: adis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - earthaccess
+  - harmony-py
+  - xarray
+  - netcdf4
+  - dask
+  - numpy
+  - pandas
+  - scikit-learn
+  - xgboost
+  - numba
+  - pyproj
+  - shapely
+  - rasterio
+  - rioxarray
+  - geopandas
+  - matplotlib
+  - requests
+  - pip
+  - pip:
+      - streamlit
+      - pydeck

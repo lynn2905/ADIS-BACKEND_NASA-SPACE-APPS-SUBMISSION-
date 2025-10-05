@@ -1,0 +1,14 @@
+# Core Data Handling
+pandas==2.2.2
+numpy==1.26.4
+xarray==2024.1.0
+h5py==3.10.0
+scikit-learn==1.4.2
+scipy==1.12.0
+
+# API & Server
+fastapi==0.110.0
+uvicorn==0.27.1
+
+# Optional utilities (you can keep or remove)
+python-dotenv==1.0.1
